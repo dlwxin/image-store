@@ -1,0 +1,13 @@
+#################################################
+# Be careful to cover .editorconfig
+#################################################
+
+# * text=auto
+# * text eol=lf
+
+# *.bat eol=crlf
+# *.vue eol=lf
+# *.js eol=lf
+# *.md eol=lf
+*.sh eol=lf
+
