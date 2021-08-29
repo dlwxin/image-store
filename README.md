@@ -1,1 +1,1 @@
-# image-host
+# image-store
